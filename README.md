@@ -1,1 +1,1 @@
-# MSW
+# MSW Seminární práce
